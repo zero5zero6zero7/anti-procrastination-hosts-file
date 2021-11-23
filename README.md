@@ -21,11 +21,10 @@ No, I'm combining multiple other host files into one "mega" file for my personal
 ---
 
 ## uBlock Origin vs Windows system HOSTS file block, which is better?
-Personally, I use both, however I tend to move some hosts to uBlock only on Firefox (or Chrome). uBlock allows you to temporarily unblock a host, or just disabling uBlock on that site will allow you to browse it. Host file block on Windows makes it harder and sometimes, you'll be forced to restart system to unblock a domain completely or even edit the host file.
+Personally, I use both, however I tend to move some hosts to uBlock only on Firefox (or Chrome). uBlock allows you to temporarily unblock a host, or just disabling uBlock on that site will allow you to browse it. Host file block on Windows makes it harder and sometimes, you'll be forced to restart system to unblock a domain completely or even edit the host file. Do note, using Windows hosts will block any app from connecting to the domain blocked in hosts file. This is pretty useful to disallow ANY app from connecting to a specific domain (especially malware).
 
 
 ---
-***
 
 ## What is [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS)"?
 Mostly same as [anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file), except it also blocks Twitter along with a lot of main news and social sites. Sites like Reddit and YouTube are still unblocked, because these sites are actually useful for work and "research". Use [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) host file to block Reddit and YouTube as well.
