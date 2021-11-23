@@ -18,6 +18,14 @@ No, I'm combining multiple other host files into one "mega" file for my personal
 
 ---
 
+## What is [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS)"?
+Mostly same as [anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file), except it also blocks Twitter along with a lot of main news and social sites. Sites like Reddit and YouTube are still unblocked, because these sites are actually useful for work and "research". Use [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) host file to block Reddit and YouTube as well.
+
+
+---
+---
+
+
 
 # How to add this host file to uBlock Origin?
 
