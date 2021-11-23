@@ -16,20 +16,20 @@ No, I'm combining multiple other host files into one "mega" file. I'll link to t
 
 <h1>How to add this host file to uBlock Origin?</h1>
 
-1. Open uBlock Settings
+>1. Open uBlock Settings
 
-2. Select the "Filter Lists" tab, scroll down to the end.
+>2. Select the "Filter Lists" tab, scroll down to the end.
 
-3. Under "Custom" section, checkbox "Import" and paste the URL of the RAW host list: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
+>3. Under "Custom" section, checkbox "Import" and paste the URL of the RAW host list: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
 
-4. Apply changes. 
+>4. Apply changes. 
 
-5. Done.
+>5. Done.
 
 
 <h1>How to add this host file to Windows hosts?</h1>
-<li>1. Open the RAW file: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
+1. Open the RAW file: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
 
 2. Backup default Windows HOSTS file, Copy and paste all entries from RAW list to the Windows HOSTS file "C:\Windows\System32\drivers\etc\HOSTS" using Notepad, then save the hosts file (without txt extention).
  
-3. Restart browsers for changes to be visible (or maybe PC).</li>
+3. Restart browsers for changes to be visible (or maybe PC).
