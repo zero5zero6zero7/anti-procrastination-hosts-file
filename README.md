@@ -14,7 +14,7 @@ Instagram on the other hand is 99% porn and 1% content nobody cares about. So it
 No, I'm combining multiple other host files into one "mega" file. I'll link to them properly, in time (mostly because want to be sure most of these lists are legit before linking to them).
 
 
-<h1>How to add this host file to uBlock Origin?</h1>
+##How to add this host file to uBlock Origin?
 
 >1. Open uBlock Settings
 
@@ -27,8 +27,8 @@ No, I'm combining multiple other host files into one "mega" file. I'll link to t
 >5. Done.
 
 
-<h1>How to add this host file to Windows hosts?</h1>
->1. Open the RAW file: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
+##How to add this host file to Windows hosts?
+>1. Open the [RAW file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file)
 
 >2. Backup default Windows HOSTS file, Copy and paste all entries from RAW list to the Windows HOSTS file "C:\Windows\System32\drivers\etc\HOSTS" using Notepad, then save the hosts file (without txt extention).
  
