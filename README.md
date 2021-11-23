@@ -20,6 +20,6 @@ No, I'm combining multiple other host files into one "mega" file. I'll link to t
 
 2. Select the "Filter Lists" tab, scroll down to the end.
 
-3. Under "Custom" section, checkbox "Import" and paste the URL of the RAW host list: https://raw.githubusercontent.com/zero5zero6zero7/mega-anti-everything-hosts-file/main/mega-anti-everything-hosts-file
+3. Under "Custom" section, checkbox "Import" and paste the URL of the RAW host list: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
 
 4. Purge all cache, update and apply changes. Done.
