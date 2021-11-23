@@ -27,7 +27,7 @@ No, I'm combining multiple other host files into one "mega" file for my personal
 
 >3. Under "Custom" section, checkbox "Import" and paste the URL of the [RAW hosts list](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file).
 
->4. Apply changes. 
+>4. Apply changes.
 
 >5. Done.
 
