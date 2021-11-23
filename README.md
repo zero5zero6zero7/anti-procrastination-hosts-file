@@ -31,5 +31,5 @@ No, I'm combining multiple other host files into one "mega" file. I'll link to t
 1. Open the RAW file: https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file
 
 2. Backup default Windows HOSTS file, Copy and paste all entries from RAW list to the Windows HOSTS file (C:\Windows\System32\drivers\etc\HOSTS) using Notepad, then save the hosts file (without txt extention).
-
+ 
 3. Restart browsers for changes to be visible (or maybe PC).
