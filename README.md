@@ -9,6 +9,7 @@ Primarily, porn sites or sites that are borderline softcore porn sites these day
 Do note, even Twitter is pretty much a porn paradise, but ONLY when you follow people who do porn or someone you follow is following such pornographic accounts. Unfollow those people and block porn "stars" if you don't want to see porn on Twitter. I generally avoid Twitter but never follow porn related content on my account, so this is why Twitter isn't blocked. 
 
 Instagram on the other hand is 99% porn and 1% content nobody cares about. So it gets blocked.
+
 ---
 
 ## Is this list originally created by you?
