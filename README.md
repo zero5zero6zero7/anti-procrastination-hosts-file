@@ -59,4 +59,6 @@ Mostly same as [anti-procrastination-hosts-file](https://raw.githubusercontent.c
 >3. Restart browsers for changes to be visible (or maybe PC).
 
 
+# Use Hostman to edit Windows HOSTS.
+>You can also use a freeware app like [Hostman](https://www.abelhadigital.com/hostsman/) to edit, manage and update Windows hosts. Makes sure to create backups of default HOSTS file first.
 
