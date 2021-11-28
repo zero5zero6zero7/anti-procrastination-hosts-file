@@ -1,6 +1,16 @@
 # Anti Procrastination hosts file for uBlock and Windows..
 Host file collection created primarily for linking to my uBlock Origin add-on in various browsers I use. List primarily created to avoid procrastination, blocks garbage sites designed to waste your time. Do note, some sites like Reddit, Twitter and YouTube are left unblocked cause they are needed for "work" these days (necessary evil), but you can still block them using [XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) and [XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) hosts files (read below for more info).
 
+---
+
+## Which hosts file to use?
+[anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file) doesn't block Twitter, YouTube and Reddit. 
+[anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) blocks Twitter.
+
+[anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) blocks Twitter, Reddit and YouTube.
+
+All hosts files only differ in blocking Twitter, Reddit and YouTube. Rest of the blocks remain the same. I personally use [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS).
+
 
 ---
 
@@ -24,14 +34,6 @@ RAW files will keep getting updated. I've been using these hosts for years so I 
 
 ## uBlock Origin vs Windows system HOSTS file block, which is better?
 Personally, I use both, however I tend to move some hosts to uBlock only on Firefox (or Chrome). uBlock allows you to temporarily unblock a host, or just disabling uBlock on that site will allow you to browse it. Host file block on Windows makes it harder and sometimes, you'll be forced to restart system to unblock a domain completely or even edit the host file. Do note, using Windows hosts will block any app from connecting to the domain blocked in hosts file. This is pretty useful to disallow ANY app from connecting to a specific domain (especially malware).
-
-
----
-
-## Which hosts file to use?
-[anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file) doesn't block Twitter, YouTube or Reddit. [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) blocks Twitter. [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) blocks Twitter, Reddit and YouTube.
-
-All hosts files only different in blocking Twitter, Reddit and YouTube. Rest of the blocks remain the same. I personally use [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS).
 
 
 ---
