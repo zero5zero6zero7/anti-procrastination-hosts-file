@@ -49,7 +49,7 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 ---
 ---
 
-
+![](https://i.imgur.com/RM65VMC.png)
 
 # How to add this host file to uBlock Origin?
 
