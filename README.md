@@ -28,8 +28,10 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 
 ---
 
-## What is [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS)"?
-Mostly same as [anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file), except it also blocks Twitter along with a lot of main news and social sites. Sites like Reddit and YouTube are still unblocked, because these sites are actually useful for work and "research". Use [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) host file to block Reddit and YouTube as well.
+## Which hosts file to use?
+[anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file) doesn't block Twitter, YouTube or Reddit. [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) blocks Twitter. [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) blocks Twitter, Reddit and YouTube.
+
+All hosts files only different in blocking Twitter, Reddit and YouTube. Rest of the blocks remain the same. I personally use [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS).
 
 
 ---
