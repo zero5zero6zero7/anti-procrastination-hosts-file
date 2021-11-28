@@ -65,12 +65,15 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 
 
 
+![](https://i.imgur.com/m0H7v9z.png)
+
 # How to add this host file to Windows hosts?
 >1. Open the [RAW hosts list](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file).
 
 >2. Backup default Windows HOSTS file, Copy and paste all entries from RAW list to the Windows HOSTS file "C:\Windows\System32\drivers\etc\HOSTS" using Notepad, then save the hosts file (without txt extention).
  
 >3. Restart browsers for changes to be visible (or maybe PC).
+
 
 
 ![](https://i.imgur.com/uQtm5Kh.png)
