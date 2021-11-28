@@ -1,10 +1,13 @@
 # Anti Procrastination hosts file for uBlock and Windows..
-Host file collection created primarily for linking to my uBlock Origin add-on in various browsers I use. List primarily created to avoid procrastination, blocks garbage sites designed to waste your time. Do note, some sites like Reddit, Twitter and YouTube are left unblocked cause they are needed for "work" these days (necessary evil), but you can still block them using [XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) and [XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) hosts files (read below for more info).
+To avoid procrastination, these hosts files blocks garbage sites designed to waste your time. I created them for personal use, to link to uBlock Origin.
+
+Depending upon the hosts file you use, some sites like Reddit, Twitter and YouTube are left unblocked cause they are needed for "work" these days (necessary evil). Read below for more info.
 
 ---
 
 ## Which hosts file to use?
-[anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file) doesn't block Twitter, YouTube and Reddit. 
+[anti-procrastination-hosts-file](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file) doesn't block Twitter, YouTube and Reddit.
+
 [anti-procrastination-hosts-file-XS](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS) blocks Twitter.
 
 [anti-procrastination-hosts-file-XS-ULTRA](https://raw.githubusercontent.com/zero5zero6zero7/anti-procrastination-hosts-file/main/anti-procrastination-hosts-file-XS-ULTRA) blocks Twitter, Reddit and YouTube.
@@ -15,12 +18,11 @@ All hosts files only differ in blocking Twitter, Reddit and YouTube. Rest of the
 ---
 
 ## What does this host file block?
-Primarily, porn sites or sites that are borderline softcore porn sites these days (Instagram). 
+From porn sites to news sites doing nothing but spreading doom and gloom 24/7. Personally, when I started cutting Twitter and news sites from my life, I realized I had a lot of time to do other things, like read books or learn something new. If you are so desperate to increase your blood pressure and feel depressed about the world, feel free to unblock news sources.
 
-Do note, even Twitter is pretty much a porn paradise, but ONLY when you follow people who do porn or someone you follow is following such pornographic accounts. Unfollow those people and block porn "stars" if you don't want to see porn on Twitter. I generally avoid Twitter but never follow porn related content on my account, so this is why Twitter isn't blocked. 
+As for porn, even Twitter is pretty much a porn paradise, but ONLY when you follow people who do porn or someone you follow is following such pornographic accounts. Unfollow those people and block porn "stars" if you don't want to see porn on Twitter. I generally avoid Twitter but never follow porn related content on my account, so this is why Twitter isn't blocked. Instagram on the other hand is 99% porn and 1% content nobody cares about. So it gets blocked.
 
-Instagram on the other hand is 99% porn and 1% content nobody cares about. So it gets blocked.
-
+Do note, I'm an atheist. Blocking porn has nothing to do with "religious reasons". If you want to waste your life jacking it to a bunch of pixels you'll never meet or hold in real life, feel free to unlblock your favorite porn sites.
 
 ---
 
@@ -64,5 +66,5 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 
 
 # Use Hostman to edit Windows HOSTS.
->You can also use a freeware app like [Hostman](https://www.abelhadigital.com/hostsman/) to edit, manage and update Windows hosts. Makes sure to create backups of default HOSTS file first.
+>You can also use a freeware app like [Hostman](https://www.abelhadigital.com/hostsman/) to edit, manage and update Windows hosts. Makes sure to create backups of default HOSTS file first. You won't have to manually add "127.0.0.1" to hosts when using an app like this to edit/manage hosts. I've been using this for years (though development seems to have stopped). It works fine on my Windows 10 LTSC.
 
