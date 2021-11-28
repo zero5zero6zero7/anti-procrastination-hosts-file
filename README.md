@@ -1,3 +1,5 @@
+![](https://i.imgur.com/ieoKc6P.png)
+
 # Anti Procrastination hosts file for uBlock and Windows..
 To avoid procrastination, these hosts files blocks garbage sites designed to waste your time and your miserable life. I created these for personal use, to link to uBlock Origin, but sharing is caring, so enjoy. 
 
