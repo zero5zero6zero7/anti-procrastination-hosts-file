@@ -1,5 +1,5 @@
 # Anti Procrastination hosts file for uBlock and Windows..
-To avoid procrastination, these hosts files blocks garbage sites designed to waste your time and your miserable life. I created these for personal use, to link to uBlock Origin, but sharing is caring so enjoy. 
+To avoid procrastination, these hosts files blocks garbage sites designed to waste your time and your miserable life. I created these for personal use, to link to uBlock Origin, but sharing is caring, so enjoy. 
 
 Keep in mind, depending upon the hosts file you use, some sites like Reddit, Twitter and YouTube are left unblocked cause they are needed for "work" these days (necessary evil).
 
