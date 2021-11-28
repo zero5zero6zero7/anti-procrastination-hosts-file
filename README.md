@@ -73,6 +73,8 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 >3. Restart browsers for changes to be visible (or maybe PC).
 
 
+![](https://i.imgur.com/uQtm5Kh.png)
+
 # Use Hostman to edit Windows HOSTS.
 >You can also use a freeware app like [Hostman](https://www.abelhadigital.com/hostsman/) to edit, manage and update Windows hosts. Makes sure to create backups of default HOSTS file first. You won't have to manually add "127.0.0.1" to hosts when using an app like this to edit/manage hosts. I've been using this for years (though development seems to have stopped). It works fine on my Windows 10 LTSC.
 
