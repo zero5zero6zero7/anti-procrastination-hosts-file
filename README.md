@@ -19,7 +19,7 @@ All hosts files only differ in blocking Twitter, Reddit and YouTube. Rest of the
 
 ---
 
-![](https://i.imgur.com/adpSJBg.png)
+![](https://i.imgur.com/umWrvz7.png)
 
 ## What does this host file block?
 From porn sites to news sites doing nothing but spreading doom and gloom 24/7. Personally, when I started cutting Twitter and news sites from my life, I realized I had a lot of time to do other things, like read books or learn something new. If you are so desperate to increase your blood pressure and feel depressed about the world, feel free to unblock news sources.
