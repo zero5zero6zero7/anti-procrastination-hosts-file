@@ -24,6 +24,10 @@ As for porn, even Twitter is pretty much a porn paradise, but ONLY when you foll
 
 Do note, I'm an atheist. Blocking porn has nothing to do with "religious reasons". If you want to waste your life jacking it to a bunch of pixels you'll never meet or hold in real life, feel free to unlblock your favorite porn sites.
 
+Fun fact. While searching for top porn sites to block, found so many "health" rags linking to "TOP PORN SITES FOR MEN/WOMEN" or nonsense like "SAFE PORN FOR WOMEN". WTF is even safe porn? Is it like a Unicorn? Love how these "men health" online sites promote porn. A lot of porn sites actually call themselves "safe porn" while being run by same few adult content conglomerates that create the "unsafe porn". 
+
+Also, '/r/noFap' on Reddit is a incredibly stupid subreddit. I think it'll actually turn people to jacking off more seeing the cringeness at display there.
+
 ---
 
 ## Are these hosts originally compiled by you? What about updates?
