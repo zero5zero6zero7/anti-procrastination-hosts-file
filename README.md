@@ -65,7 +65,8 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
 
 >5. Done.
 
-
+---
+---
 
 ![](https://i.imgur.com/m0H7v9z.png)
 
@@ -76,7 +77,8 @@ Personally, I use both, however I tend to move some hosts to uBlock only on Fire
  
 >3. Restart browsers for changes to be visible (or maybe PC).
 
-
+---
+---
 
 ![](https://i.imgur.com/uQtm5Kh.png)
 
