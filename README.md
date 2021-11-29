@@ -21,7 +21,7 @@ All hosts files only differ in blocking Twitter, Reddit and YouTube. Rest of the
 
 ![](https://i.imgur.com/umWrvz7.png)
 
-## What does this host file block?
+## Which sites are blocked by these hosts file/s?
 From porn sites to news sites doing nothing but spreading doom and gloom 24/7. Personally, when I started cutting Twitter and news sites from my life, I realized I had a lot of time to do other things, like read books or learn something new. If you are so desperate to increase your blood pressure and feel depressed about the world, feel free to unblock news sources.
 
 As for porn, even Twitter is pretty much a porn paradise, but ONLY when you follow people who do porn or someone you follow is following such pornographic accounts. Unfollow those people and block porn "stars" if you don't want to see porn on Twitter. I generally avoid Twitter but never follow porn related content on my account, so this is why Twitter isn't blocked. Instagram on the other hand is 99% porn and 1% content nobody cares about. So it gets blocked.
