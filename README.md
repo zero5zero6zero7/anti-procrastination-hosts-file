@@ -36,6 +36,8 @@ Also, '/r/noFap' on Reddit is a incredibly stupid subreddit. I think it'll actua
 
 ---
 
+![](https://i.imgur.com/ieoKc6P.png)
+
 ## Are these hosts originally compiled by you? What about updates?
 No, I have combined multiple other hosts files into one "mega" file for my personal use. I do end up adding custom sites here and there to the list though. Use this if you're a game developer or a writer and want a more "curated" online experience. A lot of sites for reference, 3D models, discussions, etc., are left unblocked. Whole reason I'm adding this to Github is to make it easy to add it to [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin).
 
